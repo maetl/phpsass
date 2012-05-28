@@ -1,0 +1,23 @@
+{
+    "name": "maetl/phpsass",
+	"type": "library",
+    "description": "Composer packaged version of phpsass library",
+    "authors": [
+        {
+            "name": "Richard Lyon",
+            "email": "@richthegeek"
+        },
+        {
+            "name": "Sebastian Siemssen",
+            "email": "@thefuhby"
+        },
+        {
+            "name": "Sam Richard",
+            "email": "@snugug"
+        }
+
+    ],
+	"autoload": {
+		"classmap": ["/"]
+	}
+}
